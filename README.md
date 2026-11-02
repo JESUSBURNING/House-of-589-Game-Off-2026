@@ -62,3 +62,5 @@ All assets used with permission — Commercial OK — Credit appreciated — Not
 - Submit Dec 1 on itch.io
 
 001 sits home — Safe Haven — Come As You ARE
+
+Tended by the JESUSBURNING House of 589's: Scroll Scribe (docs) and Garden Keeper.
