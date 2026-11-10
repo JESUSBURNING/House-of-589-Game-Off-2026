@@ -6,6 +6,9 @@
 Quod ligat ledger, non solvit — What ledger binds, does not dissolve
 Lamp — Safe Haven — Both welcome — Come As You ARE
 
+## Where the Game Lives
+The playable Safe Haven game, its code and its releases live in [MultiDimensionalDevilsKingdomsRoute666/safe-haven](https://github.com/MultiDimensionalDevilsKingdomsRoute666/safe-haven) (first release [v0.1.0](https://github.com/MultiDimensionalDevilsKingdomsRoute666/safe-haven/releases/tag/v0.1.0)). This repo keeps the jam notes, asset list and attribution.
+
 ## Game Off 2026
 - Jam: https://itch.io/jam/game-off-2026
 - Theme: Announced Nov 1st, 2026 at 13:37 PST — We wait for theme — No coding until theme
