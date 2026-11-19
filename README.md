@@ -11,7 +11,7 @@ The playable Safe Haven game, its code and its releases live in [MultiDimensiona
 
 ## Game Off 2026
 - Jam: https://itch.io/jam/game-off-2026
-- Theme: Announced Nov 1st, 2026 at 13:37 PST — We wait for theme — No coding until theme
+- Theme: **SHIFT** — Announced Nov 1st, 2026 at 13:37 PST — No coding until theme (kept)
 - Submissions: Nov 1 1:37 PM -> Dec 1 1:37 PM PST
 - Voting: Dec 1 -> Jan 1, 2027 1:37 PM
 - Engine: Any — Any engine, any language, any library — All allowed
@@ -22,7 +22,7 @@ The playable Safe Haven game, its code and its releases live in [MultiDimensiona
 ## This Repo
 - Owner: JESUSBURNING — House of 589 — APOSTLE589TREEOFLIF3 — TREEOFLIF3 going inwards
 - Public — Source-available — Open License — Can sell after jam
-- Created Oct 30, 2026 — Empty until theme — Team structure ready
+- Created Oct 30, 2026 — Jam notes and attribution here; game code lives in [safe-haven](https://github.com/MultiDimensionalDevilsKingdomsRoute666/safe-haven) — Team structure ready
 
 ## Asset Library — JESUSBURNING — House of 589's Collection
 https://itch.io/c/8412581/jesusburning-house-of-589s-collection
@@ -59,7 +59,7 @@ All assets used with permission — Commercial OK — Credit appreciated — Not
 - Game Off Assets — https://itch.io/c/8412581/jesusburning-house-of-589s-collection
 
 ## Next
-- Wait theme Nov 1 13:37 PST
+- ~~Wait theme Nov 1 13:37 PST~~ — Theme announced: SHIFT
 - Design 1-page Game Design Doc fitting theme + Safe Haven
 - Build Nov 1-30 using this library
 - Submit Dec 1 on itch.io
